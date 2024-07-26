@@ -40,7 +40,7 @@ namespace Activity_04MaxDyson
         public bool IsSmallerThan(Shape other)
         {
             // return true if this objects's area is smaller that parameter objects's area.
-            // return flase otherwise.
+            // return false otherwise.
 
            
 
